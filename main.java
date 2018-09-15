@@ -2,10 +2,12 @@
 
 public class test
 {
-
-public void testss()
+	
+public void ssss()
 {
-}
 	
 }
+}
 
+
+}
